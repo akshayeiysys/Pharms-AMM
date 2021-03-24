@@ -310,6 +310,7 @@ const Swap = () => {
             onDismiss={handleConfirmDismiss}
           />
           <PageHeader title="Exchange" description="Trade tokens in an instant" />
+          {console.log(noRoute,userHasSpecifiedInputOutput,"userHasSpecifiedInputOutput")} 
           <CardBody>
             <AutoColumn gap="md">
               <CurrencyInputPanel
@@ -409,6 +410,7 @@ const Swap = () => {
                 </Button>
               ) : noRoute && userHasSpecifiedInputOutput ? (
                 <GreyCard style={{ textAlign: 'center' }}>
+                
                   <Main mb="4px">Insufficient liquidity for this trade.</Main>
                 </GreyCard>
               ) : showApproveFlow ? (

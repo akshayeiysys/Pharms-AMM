@@ -54,7 +54,7 @@ const config: MenuEntry[] = [
   {
     label: 'Launchpad',
     icon: 'GooseIcon',
-    href: 'http://18.181.17.227/launchpad',
+    href: 'http://18.181.17.227/launch',
   },
   {
     label: 'Info',
