@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://18.181.17.227/'
+    href: 'http://exchange.pharmswap.finance/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'http://18.181.17.227/farms'
+    href: 'http://exchange.pharmswap.finance/farms'
   },
   {
     label: 'Stake',
     icon: 'PoolIcon',
-    href: 'http://18.181.17.227/nests'
+    href: 'http://exchange.pharmswap.finance/nests'
   },
   // {
   //   label: 'Lottery',
@@ -39,22 +39,22 @@ const config: MenuEntry[] = [
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'http://18.181.17.227/lottery',
+    href: 'http://exchange.pharmswap.finance/lottery',
   },
   {
     label: 'Flash',
     icon: 'AuditIcon',
-    href: 'http://18.181.17.227/flash',
+    href: 'http://exchange.pharmswap.finance/flash',
   },
   {
     label: 'NFT',
     icon: 'NftIcon',
-    href: 'http://18.181.17.227/nft',
+    href: 'http://exchange.pharmswap.finance/nft',
   },
   {
     label: 'Launchpad',
     icon: 'GooseIcon',
-    href: 'http://18.181.17.227/launch',
+    href: 'http://exchange.pharmswap.finance/launch',
   },
   {
     label: 'Info',
