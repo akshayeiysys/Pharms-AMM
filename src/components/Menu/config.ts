@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://exchange.pharmswap.finance/'
+    href: 'http://pharmswap.finance/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'http://exchange.pharmswap.finance/farms'
+    href: 'http://pharmswap.finance/farms'
   },
   {
     label: 'Stake',
     icon: 'PoolIcon',
-    href: 'http://exchange.pharmswap.finance/nests'
+    href: 'http://pharmswap.finance/nests'
   },
   // {
   //   label: 'Lottery',
@@ -39,22 +39,22 @@ const config: MenuEntry[] = [
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'http://exchange.pharmswap.finance/lottery',
+    href: 'http://pharmswap.finance/lottery',
   },
   {
     label: 'Flash',
     icon: 'AuditIcon',
-    href: 'http://exchange.pharmswap.finance/flash',
+    href: 'http://pharmswap.finance/flash',
   },
   {
     label: 'NFT',
     icon: 'NftIcon',
-    href: 'http://exchange.pharmswap.finance/nft',
+    href: 'http://pharmswap.finance/nft',
   },
   {
     label: 'Launchpad',
     icon: 'GooseIcon',
-    href: 'http://exchange.pharmswap.finance/launch',
+    href: 'http://pharmswap.finance/launch',
   },
   {
     label: 'Info',
@@ -88,7 +88,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://www.pharmswap.gitbook.io/',
+        href: 'https://pharmswap.gitbook.io/',
       },
       {
         label: 'Blog',
